@@ -60,15 +60,14 @@ A full-stack web application designed to manage housing society operations such 
 ## 🧱 Project Structure
 
 society-management-system/
-│
-├── society-frontend/ # React + Tailwind CSS
-├── society-backend/ # Node.js + Express + MongoDB
-├── docs/Proj Screenshots
-├── package.json
-├── package-lock.json 
-├── .gitignore
-├── .env.example
-└── README.md
+- ├── society-frontend/ # React + Tailwind CSS
+- ├── society-backend/ # Node.js + Express + MongoDB
+- ├── docs/Proj Screenshots
+- ├── package.json
+- ├── package-lock.json 
+- ├── .gitignore
+- ├── .env.example
+- └── README.md
 
 ## 🛠 Tech Stack
 
@@ -159,13 +158,17 @@ DELETE /api/payments/:id
 
 </details>
 
-## 🤝 Contributing
-
+# 🤝 Contributing
 - Fork the repo
 - Create your feature branch
 - Commit changes
 - Push
 - Create Pull Request
 
-## 📜 License
+# 📜 License
 This project is licensed under the MIT License.
+
+# ✨ Author
+Eman Khalid
+- GitHub: https://github.com/EmanKhalid01
+- LinkedIn: https://linkedin.com/in/eman-khalid001
